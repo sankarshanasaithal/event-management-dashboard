@@ -12,6 +12,18 @@ A robust event management system with features for managing events, attendees, a
 
 ---
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/8f81e543-7e6f-402d-8b6b-df069470ec82)
+
+![image](https://github.com/user-attachments/assets/cb116b0c-288e-4067-b416-65d08281f93a)
+
+![image](https://github.com/user-attachments/assets/23e61572-14ee-472c-a121-0b762ab4f177)
+
+![image](https://github.com/user-attachments/assets/23313dc4-de12-4a67-99c7-6d1739f733da)
+
+---
+
 ## Prerequisites
 
 Ensure you have the following installed:
