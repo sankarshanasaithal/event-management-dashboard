@@ -24,6 +24,13 @@ A robust event management system with features for managing events, attendees, a
 
 ---
 
+### Login Credentials
+
+**Email:** admin@example.com
+**Password:** password
+
+---
+
 ## Prerequisites
 
 Ensure you have the following installed:
