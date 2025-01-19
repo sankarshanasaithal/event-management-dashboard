@@ -72,6 +72,8 @@ cd event-management-dashboard
      DB_PASSWORD=your-mysql-password
      DB_NAME=event_management
      JWT_SECRET=your-secret-key
+     LOGIN_EMAIL=your-email
+     LOGIN_PASSWORD=your-password
      ```
 
 4. Create the database:
@@ -283,3 +285,9 @@ event-management-dashboard/
 
 ### Frontend
 - **Start Frontend:** `npm start`
+
+---
+
+### UPDATE
+- Added UI components, including **login background**, **Progress Bar**.
+- Updated **Attendees** and **Tasks** functionality.
